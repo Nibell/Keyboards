@@ -1,4 +1,4 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
+(EXTRA_symbol_lib (version 20220914) (generator EXTRA_symbol_editor)
   (symbol "LED_SK6812MINI" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 5.08 5.715 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))

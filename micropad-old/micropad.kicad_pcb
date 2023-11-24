@@ -1,4 +1,4 @@
-(kicad_pcb (version 20221018) (generator pcbnew)
+(EXTRA_pcb (version 20221018) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -142,7 +142,7 @@
     (at 88.275 111.785)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -207,7 +207,7 @@
       (net 22 "Col 1") (pinfunction "1") (pintype "passive") (tstamp accb57f3-a221-418c-b2a8-45f8458d6982))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 18 "Net-(D14-A)") (pinfunction "2") (pintype "passive") (tstamp 7e1ade14-1c33-49aa-be57-42bf41204715))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -219,7 +219,7 @@
     (at 182.225 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -295,7 +295,7 @@
       (net 16 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 88f1e3eb-2860-472d-8956-bed856121346))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 17 "Net-(D13-A)") (pinfunction "A") (pintype "passive") (tstamp c6fc9364-c1b9-4a70-a34e-704e9507003c))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -307,7 +307,7 @@
     (at 88.275 54.635)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -372,7 +372,7 @@
       (net 22 "Col 1") (pinfunction "1") (pintype "passive") (tstamp da3f7aa4-9cd0-40a7-8f7e-55910ee8923b))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(D2-A)") (pinfunction "2") (pintype "passive") (tstamp 87a69e29-cfd6-40ac-99ca-280482b89f56))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -384,7 +384,7 @@
     (at 126.375 73.685)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -449,7 +449,7 @@
       (net 24 "Col 3") (pinfunction "1") (pintype "passive") (tstamp 9d38873a-327c-4625-b0b5-984b1bf761cc))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 10 "Net-(D8-A)") (pinfunction "2") (pintype "passive") (tstamp 2171910a-2ea8-4389-affa-ce3ed92b45f4))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -461,7 +461,7 @@
     (at 88.275 92.735)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -526,7 +526,7 @@
       (net 22 "Col 1") (pinfunction "1") (pintype "passive") (tstamp fd71e031-ad5a-4f6f-8d0f-cd504a6d7c42))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 13 "Net-(D10-A)") (pinfunction "2") (pintype "passive") (tstamp 55caa3fc-2456-4e91-9115-a93cdc86303b))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -536,7 +536,7 @@
   (footprint "MCU:Raspberry_Pi_Pico" (layer "F.Cu")
     (tstamp 16196c31-cb46-43f5-80c0-d585b0d41c7b)
     (at 160.3475 71.145)
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (path "/076441e5-9ea6-4029-a40f-6289262fca53")
     (attr through_hole)
@@ -1142,7 +1142,7 @@
       (net 59 "unconnected-(U1-SWDIO-Pad43)") (pinfunction "SWDIO") (pintype "bidirectional") (tstamp cc1194b0-efc8-4b06-9d99-4d07fa585744))
     (pad "43" smd rect (at 2.54 23.9 90) (size 3.5 1.7) (drill (offset -0.9 0)) (layers "F.Cu" "F.Mask")
       (net 59 "unconnected-(U1-SWDIO-Pad43)") (pinfunction "SWDIO") (pintype "bidirectional") (tstamp ef3e3f9b-1ef9-4b17-aa87-e7ba785783f2))
-    (model "${KICAD}/3dmodels/MCU.3dshapes/Raspberry_Pi_Pico.step"
+    (model "${EXTRA}/3dmodels/MCU.3dshapes/Raspberry_Pi_Pico.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -1154,7 +1154,7 @@
     (at 69.225 92.735)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -1219,7 +1219,7 @@
       (net 21 "Col 0") (pinfunction "1") (pintype "passive") (tstamp 8442026d-c6f2-43c3-a5d5-8c6d3ef8f6f8))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 12 "Net-(D9-A)") (pinfunction "2") (pintype "passive") (tstamp a7a6b92d-8aa1-4c56-9446-dde7abdad0d0))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1231,7 +1231,7 @@
     (at 107.325 54.635)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -1296,7 +1296,7 @@
       (net 23 "Col 2") (pinfunction "1") (pintype "passive") (tstamp 5838db67-bfd4-42ee-81e0-613f710e3eee))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 4 "Net-(D3-A)") (pinfunction "2") (pintype "passive") (tstamp ce7eb752-6f3e-45d4-9c04-df21550b7060))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1308,7 +1308,7 @@
     (at 143.175 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -1384,7 +1384,7 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 44b9cb61-6aba-46f9-b7a7-f2786fd89e4c))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(D2-A)") (pinfunction "A") (pintype "passive") (tstamp f6618373-403d-43e8-ba3e-cb87813d9f5b))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1396,7 +1396,7 @@
     (at 171.575 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -1472,7 +1472,7 @@
       (net 11 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 56fa3ab6-261e-43c3-80f0-914a1aafe393))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 13 "Net-(D10-A)") (pinfunction "A") (pintype "passive") (tstamp 90872066-9119-419c-ae2e-4b1c8ab3c0a6))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1484,7 +1484,7 @@
     (at 69.225 73.685)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -1549,7 +1549,7 @@
       (net 21 "Col 0") (pinfunction "1") (pintype "passive") (tstamp d8b1dbdd-a6dd-4239-8fb7-70c6488ed0e4))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 7 "Net-(D5-A)") (pinfunction "2") (pintype "passive") (tstamp 7910fc61-94a8-42e3-a127-d4ac02367f2a))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1561,7 +1561,7 @@
     (at 126.375 111.785)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -1626,7 +1626,7 @@
       (net 24 "Col 3") (pinfunction "1") (pintype "passive") (tstamp 7ded91c4-d5c2-4dde-ac86-7bbef3f60c16))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 20 "Net-(D16-A)") (pinfunction "2") (pintype "passive") (tstamp 3c0357dc-50af-4f30-b191-f6b21e2dbdba))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1638,7 +1638,7 @@
     (at 107.325 73.685)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -1703,7 +1703,7 @@
       (net 23 "Col 2") (pinfunction "1") (pintype "passive") (tstamp 28a1f5ca-ca81-485f-b87c-53b917b5a2db))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 9 "Net-(D7-A)") (pinfunction "2") (pintype "passive") (tstamp ab414151-09f0-40be-b2a2-2fbc1e1508a7))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1715,7 +1715,7 @@
     (at 150.275 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -1791,7 +1791,7 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 4d4392bb-3b3c-4e86-a900-8e1f9f34bee9))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 5 "Net-(D4-A)") (pinfunction "A") (pintype "passive") (tstamp e74c3ef9-6b5b-46b1-b4b1-94e69e7368a7))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1803,7 +1803,7 @@
     (at 126.375 92.735)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -1868,7 +1868,7 @@
       (net 24 "Col 3") (pinfunction "1") (pintype "passive") (tstamp d082a402-f1e3-4ab1-84dd-9c579a45e425))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 15 "Net-(D12-A)") (pinfunction "2") (pintype "passive") (tstamp e918e3f9-de81-4401-8c17-76f94162e8f7))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1880,7 +1880,7 @@
     (at 107.325 92.735)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -1945,7 +1945,7 @@
       (net 23 "Col 2") (pinfunction "1") (pintype "passive") (tstamp 0b01c218-1715-4e43-95a1-072c27184bc5))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 14 "Net-(D11-A)") (pinfunction "2") (pintype "passive") (tstamp 04429b32-b061-4dce-8ef0-769718981877))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1957,7 +1957,7 @@
     (at 185.775 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2033,7 +2033,7 @@
       (net 16 "Row 3") (pinfunction "K") (pintype "passive") (tstamp d20d0536-91fd-452c-be11-227366a282a0))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 18 "Net-(D14-A)") (pinfunction "A") (pintype "passive") (tstamp 4e1f82ae-ceed-479d-908c-fde5b75ee2b3))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2045,7 +2045,7 @@
     (at 160.925 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2121,7 +2121,7 @@
       (net 6 "Row 1") (pinfunction "K") (pintype "passive") (tstamp eb5a9295-36de-41ca-a906-369a1d013689))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 9 "Net-(D7-A)") (pinfunction "A") (pintype "passive") (tstamp 9492326a-5b24-4065-923f-cddc8f40d13c))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2133,7 +2133,7 @@
     (at 168.025 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2209,7 +2209,7 @@
       (net 11 "Row 2") (pinfunction "K") (pintype "passive") (tstamp a8e70358-a08c-44a5-8cc4-990966174075))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 12 "Net-(D9-A)") (pinfunction "A") (pintype "passive") (tstamp e48f29c0-be87-4e50-af8e-9abf9fb6c12e))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2221,7 +2221,7 @@
     (at 126.375 54.635)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -2286,7 +2286,7 @@
       (net 24 "Col 3") (pinfunction "1") (pintype "passive") (tstamp 37d2ca61-7b2f-4b6f-9b3b-fed32f469d33))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 5 "Net-(D4-A)") (pinfunction "2") (pintype "passive") (tstamp ce470176-0f4e-452b-a6f8-078d3e4a1085))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2298,7 +2298,7 @@
     (at 178.675 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2374,7 +2374,7 @@
       (net 11 "Row 2") (pinfunction "K") (pintype "passive") (tstamp c54e24a6-9b3b-482a-af9a-fc873b06e3e3))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 15 "Net-(D12-A)") (pinfunction "A") (pintype "passive") (tstamp d4f7116e-a572-4707-8545-b672614205a4))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2386,7 +2386,7 @@
     (at 157.375 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2462,7 +2462,7 @@
       (net 6 "Row 1") (pinfunction "K") (pintype "passive") (tstamp 94bd1aed-fc23-4a27-8f08-902e6fcc24fd))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 8 "Net-(D6-A)") (pinfunction "A") (pintype "passive") (tstamp 67817588-df52-4538-832e-a6148166dec0))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2474,7 +2474,7 @@
     (at 139.625 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2550,7 +2550,7 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 84f99680-0169-4fed-bf4e-b65c4b1ecac5))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp 3abe3407-119d-4dbd-8717-1104f0b1b795))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2562,7 +2562,7 @@
     (at 88.275 73.685)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -2627,7 +2627,7 @@
       (net 22 "Col 1") (pinfunction "1") (pintype "passive") (tstamp f6daa76b-8790-4e6b-8a33-ddafc9880b37))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 8 "Net-(D6-A)") (pinfunction "2") (pintype "passive") (tstamp a917c563-548b-40da-8d81-602df70ebada))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2639,7 +2639,7 @@
     (at 189.325 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2715,7 +2715,7 @@
       (net 16 "Row 3") (pinfunction "K") (pintype "passive") (tstamp e6e40944-e2f4-48f3-8df4-08e4880343bb))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 19 "Net-(D15-A)") (pinfunction "A") (pintype "passive") (tstamp 91133a0f-9f0b-448d-82f4-e26ce2befa3d))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2727,7 +2727,7 @@
     (at 69.225 111.785)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -2792,7 +2792,7 @@
       (net 21 "Col 0") (pinfunction "1") (pintype "passive") (tstamp dc74548a-ab33-4393-ba13-c44956bd8169))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 17 "Net-(D13-A)") (pinfunction "2") (pintype "passive") (tstamp ac78dbbc-1b87-4c59-8d65-b19d7b7622f8))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2804,7 +2804,7 @@
     (at 107.325 111.785)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -2869,7 +2869,7 @@
       (net 23 "Col 2") (pinfunction "1") (pintype "passive") (tstamp c3a5101b-d230-45d0-8b5b-73ac0e3b561c))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 19 "Net-(D15-A)") (pinfunction "2") (pintype "passive") (tstamp 2450af38-6b31-40a5-acec-1a229b5553fb))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2881,7 +2881,7 @@
     (at 146.725 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -2957,7 +2957,7 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 36b66e70-c026-4739-ad91-d1e78999d6f0))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 4 "Net-(D3-A)") (pinfunction "A") (pintype "passive") (tstamp b61fe022-6e82-4161-ad64-52abf65c3637))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2969,7 +2969,7 @@
     (at 192.875 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -3045,7 +3045,7 @@
       (net 16 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 4eededff-8e71-4dfb-9212-fb92b8132c82))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 20 "Net-(D16-A)") (pinfunction "A") (pintype "passive") (tstamp e1d3454a-8fc1-414a-a58b-3b2384f2a8eb))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3057,7 +3057,7 @@
     (at 153.825 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -3133,7 +3133,7 @@
       (net 6 "Row 1") (pinfunction "K") (pintype "passive") (tstamp ddd8bdc5-cb37-4c36-946a-8ab32f1aa6e0))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 7 "Net-(D5-A)") (pinfunction "A") (pintype "passive") (tstamp ab77118c-7eb0-42bf-b247-d21274586919))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3145,7 +3145,7 @@
     (at 69.225 54.635)
     (descr "MX keyswitch PCB Mount Keycap 1.00u")
     (tags "MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "ki_description" "Push button switch, normally open, two pins, 45° tilted")
     (property "ki_keywords" "switch normally-open pushbutton push-button")
@@ -3210,7 +3210,7 @@
       (net 21 "Col 0") (pinfunction "1") (pintype "passive") (tstamp 4c699771-2b6d-4c74-871f-0f0d81de4f23))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(D1-A)") (pinfunction "2") (pintype "passive") (tstamp f49780fc-9b59-49bf-ae51-16a466ac781d))
-    (model "${KICAD}/3dmodels/MX.3dshapes/MX_PCB.step"
+    (model "${EXTRA}/3dmodels/MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3222,7 +3222,7 @@
     (at 164.475 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -3298,7 +3298,7 @@
       (net 6 "Row 1") (pinfunction "K") (pintype "passive") (tstamp eaae53ec-1639-47cf-b1b3-ea0150293f92))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 10 "Net-(D8-A)") (pinfunction "A") (pintype "passive") (tstamp 4c29f92d-0502-408f-a0bd-d418c5dea3fb))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3310,7 +3310,7 @@
     (at 175.125 117.02375 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-    (property "Sheetfile" "micropad.kicad_sch")
+    (property "Sheetfile" "micropad.EXTRA_sch")
     (property "Sheetname" "")
     (property "Sim.Device" "D")
     (property "Sim.Pins" "1=K 2=A")
@@ -3386,7 +3386,7 @@
       (net 11 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 979d8522-7587-4fc5-b866-b6ebe781f08c))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 14 "Net-(D11-A)") (pinfunction "A") (pintype "passive") (tstamp 8719d2ad-d425-4272-ae04-f94aedb5877f))
-    (model "${KICAD}/3dmodels/Components.3dshapes/Diode_DO-35.step"
+    (model "${EXTRA}/3dmodels/Components.3dshapes/Diode_DO-35.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
