@@ -22,7 +22,7 @@ This repository includes:
 ## Repository Structure
 
 - `extra/`: Schematics and files for keyboard components.
-- `micropad4x4/`: Custom Micropad 4x4
+- `micropad4x4/`:  [Custom Micropad 4x4](https://github.com/Nibell/Keyboards/tree/main/micropad4x4)
 
 ## License
 
