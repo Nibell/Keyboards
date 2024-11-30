@@ -3,10 +3,6 @@
 
 ![Micropad 4x4](https://raw.githubusercontent.com/Nibell/Keyboards/refs/heads/main/micropad4x4/images/micorpad4x4.jpg)
 
-Welcome to the **Micropad 4x4 Keyboard** repository! This project features a compact, customizable 4x4 micropad designed for enthusiasts who love experimenting with custom keyboards. Whether you're a productivity junkie, a gamer, or just someone who wants a personalized input device, this macropad is perfect for you.
-
----
-
 ## Features
 
 - **Compact Design**: A 4x4 grid for 16 keys, perfect for shortcuts, macros, or gaming inputs.
@@ -15,7 +11,6 @@ Welcome to the **Micropad 4x4 Keyboard** repository! This project features a com
 - **Versatile Use Cases**: Ideal for productivity software, video editing, music production, or gaming.
 - **Open Source Hardware**: Modify the design to suit your specific needs.
 
----
 
 ## Repository Structure
 
@@ -23,7 +18,6 @@ Welcome to the **Micropad 4x4 Keyboard** repository! This project features a com
 - **`Production`**: Gerber and production files.
 - **`Images`**: Renderings and photos of the completed macropad.
 
----
 
 ## Getting Started
 
